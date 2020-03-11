@@ -9,6 +9,11 @@
 			"id": 2,
 			"name": "milk",
 			"price": 50.00
+		},
+		{
+			"id": 3,
+			"name": "cabbage"
+			"price": 100.00
 		}
 	]
 }
