@@ -1,19 +1,38 @@
 {
+	"categories": [
+		{
+			"id": 1,
+			"name": "dairy"
+		},
+		{
+			"id": 2,
+			"name": "meat"
+		}
+	],
 	"products": [
 		{
 			"id": 1,
 			"name": "cheese",
+			"description": "",
+			"image": "",
 			"price": 300.00
+			"category": 1
 		},
 		{
-			"id": 2,
+			"id": 2
 			"name": "milk",
-			"price": 50.00
+			"description": "",
+			"image": "",
+			"price": 50.00,
+			"category": 1
 		},
 		{
-			"id": 3,
-			"name": "cabbage",
-			"price": 100.00
+			"id": 3
+			"name": "steak"
+			"description": "",
+			"image": "",
+			"price": 500.00,
+			"category": 2
 		}
 	]
 }
