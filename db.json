@@ -19,7 +19,7 @@
 			"category": 1
 		},
 		{
-			"id": 2
+			"id": 2,
 			"name": "milk",
 			"description": "",
 			"image": "",
@@ -27,7 +27,7 @@
 			"category": 1
 		},
 		{
-			"id": 3
+			"id": 3,
 			"name": "steak",
 			"description": "",
 			"image": "",
