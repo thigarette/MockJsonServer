@@ -15,7 +15,7 @@
 			"name": "cheese",
 			"description": "",
 			"image": "",
-			"price": 300.00
+			"price": 300.00,
 			"category": 1
 		},
 		{
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": 3
-			"name": "steak"
+			"name": "steak",
 			"description": "",
 			"image": "",
 			"price": 500.00,
