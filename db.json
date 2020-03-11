@@ -14,7 +14,7 @@
 			"id": 1,
 			"name": "cheese",
 			"description": "",
-			"image": "",
+			"imageUrl": "https://www.ecosystemmarketplace.com/wp-content/uploads/2019/11/Swiss-Cheese.jpg",
 			"price": 300.00,
 			"category": 1
 		},
@@ -22,7 +22,7 @@
 			"id": 2,
 			"name": "milk",
 			"description": "",
-			"image": "",
+			"imageUrl": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/156521/1.jpg",
 			"price": 50.00,
 			"category": 1
 		},
@@ -30,7 +30,7 @@
 			"id": 3,
 			"name": "steak",
 			"description": "",
-			"image": "",
+			"imageUrl": "https://malabarfarms.biz/v4/wp-content/uploads/2018/06/tbone-steak.png",
 			"price": 500.00,
 			"category": 2
 		}
