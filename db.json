@@ -1,4 +1,28 @@
 {
+	"places": [
+		{
+			"id": 1,
+			"name": "The Hub"
+		}
+	],
+	"vendors": [
+		{
+			"id": 1,
+			"name": "Carrefour",
+			"place": {
+				"id": 1,
+				"name": "The Hub"
+			}
+		},
+		{
+			"id": 2,
+			"name": "Zucchini",
+			"place": {
+				"id": 1,
+				"name": "The Hub"
+			}
+		}
+	]
 	"categories": [
 		{
 			"id": 1,
@@ -16,7 +40,10 @@
 			"description": "",
 			"imageUrl": "https://www.ecosystemmarketplace.com/wp-content/uploads/2019/11/Swiss-Cheese.jpg",
 			"price": 300.00,
-			"category": 1
+			"category": {
+				"id": 1,
+				"name": "dairy"
+			}
 		},
 		{
 			"id": 2,
@@ -24,7 +51,10 @@
 			"description": "",
 			"imageUrl": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/156521/1.jpg",
 			"price": 50.00,
-			"category": 1
+			"category": {
+				"id": 1,
+				"name": "dairy"
+			}
 		},
 		{
 			"id": 3,
@@ -32,7 +62,10 @@
 			"description": "",
 			"imageUrl": "https://malabarfarms.biz/v4/wp-content/uploads/2018/06/tbone-steak.png",
 			"price": 500.00,
-			"category": 2
+			"category": {
+				"id": 2,
+				"name": "meat"
+			}
 		},
 		{
 			"id": 4,
@@ -40,7 +73,10 @@
 			"description": "",
 			"imageUrl": "https://images.yaoota.com/dAriSQHVXlWzVqqwMwgmMNSAa6s=/trim/yaootaweb-production-ke/media/crawledproductimages/bca5c13b8758017d4e154184f602b3d44df05c21.jpg",
 			"price": 60.00,
-			"category": 1
+			"category": {
+				"id": 1,
+				"name": "dairy"
+			}
 		}
 	]
 }
