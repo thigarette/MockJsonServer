@@ -1,26 +1,12 @@
 {
-	"places": [
-		{
-			"id": 1,
-			"name": "The Hub"
-		}
-	],
 	"vendors": [
 		{
 			"id": 1,
-			"name": "Carrefour",
-			"place": {
-				"id": 1,
-				"name": "The Hub"
-			}
+			"name": "Carrefour"
 		},
 		{
 			"id": 2,
-			"name": "Zucchini",
-			"place": {
-				"id": 1,
-				"name": "The Hub"
-			}
+			"name": "Zucchini"
 		}
 	],
 	"categories": [
