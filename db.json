@@ -78,5 +78,23 @@
 				"name": "dairy"
 			}
 		}
+	],
+	"list": [
+		{
+			"id": 1,
+			"metadata": {},
+			"created_at": "2020-03-24T12:48:00.104977Z",
+			"updated_at": "2020-03-24T12:48:00.105003Z"
+		}
+	],
+	"listItem": [
+		{
+			"id": 1,
+			"metadata": {},
+			"created_at": "2020-03-24T12:48:00.104977Z",
+			"updated_at": "2020-03-24T12:48:00.105003Z",
+			"list_id": 1,
+			"product_id": 1
+		}
 	]
 }
